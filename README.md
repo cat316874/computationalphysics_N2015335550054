@@ -23,5 +23,5 @@
 #
 [Exercise 14:Chapter 6 problem 6.15:The realistic string problem]
 #
-Final Project:用轨道能量分析Kirkwood Gap的缝宽]
+[Final Project:用轨道能量分析Kirkwood Gap的缝宽]
 #
