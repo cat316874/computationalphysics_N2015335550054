@@ -1,7 +1,7 @@
 # Hmoework list
 [Exercise 01 完成](https://github.com/cat316874/computationalphysics_N2015335550054)
 #
- [ ][Exercise 02:Python 语法练习]
+#[ ][Exercise 02:Python 语法练习]
 #
 [Exercise 03:All levels] (https://www.baidu.com/?tn=79081068_1_oem_dg) 
 #
