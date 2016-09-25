@@ -1,7 +1,7 @@
 # Hmoework list
 - [x] [Exercise 01:complete] 
 - [x] [Exercise 02:Python 语法练习] (https://github.com/cat316874/computationalphysics_N2015335550054/blob/master/Exercise%2002.md)
-- [x] [Exercise 03:All levels] (https://www.baidu.com/?tn=79081068_1_oem_dg)
+- [x] [Exercise 03:移动自己的名字] ()
 - [ ] [Exercise 04:Chapter 1 problem 1.5:The decay of tao kinds of particles]
 - [ ] [Exercise 05:Chapter 1 problem 1.6:Population growth]
 - [ ] [Exercise 06:Chapter 2 problem 2.9&2.10:The cannon]
