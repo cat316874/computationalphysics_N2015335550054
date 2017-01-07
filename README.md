@@ -12,5 +12,5 @@
 - [x] [Exercise 11:Chapter 4 problem 4.41:The percession of Mercury](https://www.zybuluo.com/cat316874/note/512767)
 - [x] [Exercise 12:Chapter 4 problem 4.18:The Kirkwood Gap](https://www.zybuluo.com/cat316874/note/512767)
 - [x] [Exercise 13:Chapter 5 problem 5.7:The Jacobi method v.s The SOR algorithm](https://www.zybuluo.com/cat316874/note/512767)
-- [x] [Exercise 14:Chapter 6 problem 6.15:The realistic string problem](https://www.zybuluo.com/cat316874/note/512767)
-- [x] [期末作业]
+- [x] [Exercise 14:Chapter 6 problem 6.15:The realistic string problem](https://github.com/cat316874/computationalphysics_N2015335550054/blob/master/%E6%9C%9F%E6%9C%AB.md)
+- [x] [期末作业](https://github.com/cat316874/computationalphysics_N2015335550054/blob/master/%E6%9C%9F%E6%9C%AB.md)=
